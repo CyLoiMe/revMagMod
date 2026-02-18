@@ -1,6 +1,6 @@
 {
-  "version": "v8.31.51 (patches 5.46.0)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/CyLoiMe/revMagMod/releases/download/2/music-revanced-magisk-v8.31.51-arm64-v8a.zip",
+  "version": "v8.40.54 (patches 5.50.2)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/CyLoiMe/revMagMod/releases/download/5/music-revanced-magisk-v8.40.54-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/CyLoiMe/revMagMod/update/build.md"
 }
